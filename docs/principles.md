@@ -2,7 +2,7 @@
 # NMP 论文原理精要
 
 > 来源：*The Null Model Paradigm: Constraint-First Architecture for Reliable LLM Agents*  
-> 作者：loweswang  
+> 作者：loweswang  中文名： 王龙 
 > 发布：Zenodo正式版（DOI：10.5281/zenodo.20463703），2026年5月30日
 
 ---
@@ -16,7 +16,7 @@
 - 结果：连续三次失败，报错Internal Server Error: Bad Gateway
 
 ### 核心论点
-**这不是实现缺陷，而是范式缺陷。**
+**这不是工程缺陷，而是范式缺陷。**
 
 当前Agent采用**Full-Model Paradigm（全模型范式）**：让单一LLM同时承担理解意图、规划操作、执行物理动作。LLM满载互联网语料、文化知识、统计模式，却缺乏物理世界所需的骨架结构。
 
