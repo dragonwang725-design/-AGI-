@@ -1,6 +1,13 @@
-# The Null Model Paradigm: Constraint-First Architecture for Reliable LLM Agents
+#  A counterintuitive AGI architecture solution
+ ——Abandoning model-centricity: Constraint-first architecture (NMP) for truly reliable LLM agents
 
-**Version 2.0: Refined Architecture and Terminology**
+> **Null Model Paradigm
+All judgments are based on facts, and the panorama of facts is infinite. Extracting facts that align with the purpose enables LLM to make judgments..**
+
+>**The LLM is not the agent. The shell is.**
+This is not a framework. It is an architectural specification for **Purpose–Judgment Partitioning**.
+
+**Version 2.0.2: Refined Architecture and Terminology**
 
 > **Revision Note:** Version 1.0 (Zenodo DOI: 10.5281/zenodo.20463703) established the foundational concept of the Null Model Paradigm. Version 2.0 refines the architecture with (i) explicit knowledge stratification (L0–L3), (ii) the Meta-Fact Vault as a deterministic knowledge layer, (iii) the Case Library as a dynamic feedback layer, and (iv) a clarified mechanism for LLM constraint through input-boundary locking rather than permission deprivation. This revision also introduces the Three-Layer Dual-Perspective (TDA) architecture diagram and the dialectical conflict-resolution layer.
 
