@@ -14,6 +14,7 @@ This is not a framework. It is an architectural specification for **Purpose–Ju
 The Null Model is **not empty**.  
 It is a **judgment substrate** stripped of *a posteriori* domain knowledge, purpose, and value bias, while retaining *a priori* computational capacity.
 
+>**An empty model doesn't make any judgments; it only calculates whether a match is met. Just like a firewall doesn't "understand" hackers, it only matches rules.**
 ### What "Null" Means: Knowledge-Free, Not Capacity-Free
 
 | Aspect | Null Model "Has" | Null Model "Does Not Have" |
