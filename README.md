@@ -1,7 +1,10 @@
-# Null Model Paradigm (NMP)
+# A counterintuitive AGI architecture solution
+ ——Abandoning model-centricity: Constraint-first architecture (NMP) for truly reliable LLM agents
 
-> **The LLM is not the agent. The shell is.**
+> **Null Model Paradigm
+All judgments are based on facts, and the panorama of facts is infinite. Extracting facts that align with the purpose enables LLM to make judgments..**
 
+>**The LLM is not the agent. The shell is.**
 This is not a framework. It is an architectural specification for **Purpose–Judgment Partitioning**.
 
 ---
@@ -45,8 +48,6 @@ The Null Model executes based on terrain, selecting maps as needed.
 ## III. Old Paradigm vs. New Paradigm: The "Game Crash" Example
 
 The following diagram contrasts the **Full-Model Paradigm** (pure LLM) with the **Null Model Paradigm** (TDA three-layer architecture) using a real-world diagnostic scenario.
-
-![Old vs New Paradigm](2026.jpg)
 
 **Left: Old Paradigm (Pure LLM)**
 - User says: "Game keeps crashing"
@@ -133,9 +134,10 @@ LLM integration is simulated to demonstrate the separation logic.
 - `docs/architecture/`: Formal specs of TDA.
 - `examples/`: Demos of the 6-step pipeline.
 
-## Citation
+## Citation 
 
-**DOI:** [10.5281/zenodo.20463703](https://doi.org/10.5281/zenodo.20463703)
+ <img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/6201758a-a40d-4c0b-a345-285fda7fe6cd" />
+<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/f313de27-8998-4e83-83a7-8d7bbffd34ea" />
 
 ---
 
@@ -151,9 +153,10 @@ python examples/gpu_crash_demo.py
 **What you will see:**  
 The LLM starts with wild guesses (Knowledge).  
 The Null Model injects real system facts (Probes).  
+
 The LLM returns a precise diagnosis (Judgment).
 
 **The difference:**  
 One is a consultant. The other is an engineer.
 
-**For a real-world comparison, see the "Game Crash" example in Section III above** (diagram `2026.jpg`), which shows the complete L1→L2→Probe→L2→L3→L2 closed loop in action.
+**For a real-world comparison, see the "Game Crash" example in Section III above** (diagram ), which shows the complete L1→L2→Probe→L2→L3→L2 closed loop in action.
