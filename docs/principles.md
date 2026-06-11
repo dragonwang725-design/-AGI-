@@ -3,7 +3,7 @@
 
 > 来源：*The Null Model Paradigm: Constraint-First Architecture for Reliable LLM Agents*  
 > 作者：loweswang  中文名： 王龙 
-> 发布：Zenodo正式版（DOI：10.5281/zenodo.20463703），2026年5月30日
+> 发布：Zenodo正式版（DOI：10.5281/zenodo.20463703，DOI：10.5281/zenodo.20636262)
 
 ---
 
