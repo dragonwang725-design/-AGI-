@@ -14,7 +14,7 @@ This is not a framework. It is an architectural specification for **Purpose–Ju
 **Authors:** loweswang  
 **Date:** June 10, 2026
 **Zenodo V2 DOI:** [10.5281/zenodo.20636262](https://doi.org/10.5281/zenodo.20636262)
-**Concept DOI (always latest):** [10.5281/zenodo.yyyyy](https://doi.org/10.5281/zenodo.yyyyy)
+**Concept DOI (always latest):** [10.5281/zenodo.20643414](https://doi.org/10.5281/zenodo.20643414)
 **Previous Version:** [10.5281/zenodo.20463703](https://doi.org/10.5281/zenodo.20463703)
 
 ## Abstract
